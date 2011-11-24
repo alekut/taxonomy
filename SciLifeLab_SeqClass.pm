@@ -1,4 +1,5 @@
 package SciLifeLab_SeqClass;
+use warnings;
 #use diagnostics;
 
 =Usage (example):
